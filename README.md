@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Kanagaraj K
 - 👀 Looking for a job in Front end development
-- 💞️ Good knowlwdge in HTML, CSS, JavaScript, React JS
+- 💞️ Good knowlwdge in HTML, CSS, Flex, Bootstarp, JavaScript, React JS
 - 📫 You can reach me @ kanagarajwhb@gmail.com
 
 <h1>🖥️	Few of my Projects</h1>
