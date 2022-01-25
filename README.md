@@ -16,18 +16,13 @@
 ![image](https://user-images.githubusercontent.com/81580398/150663440-d21a418d-f666-48e3-94ff-c185943231af.png)
 ![image](https://user-images.githubusercontent.com/81580398/150663454-751804f6-55fb-40ef-9af7-4c9828172433.png)
 
-
-
-
-
-
 <h1>🖥️	Few of my Projects</h1>
 
 - 🔔 [Quizz app](https://kanagu555.github.io/Quizz_App)
 - ➕ [Calculator](https://kanagu555.github.io/calculator)
 - 🎥 [Youtube clone](https://youtube-video-api.vercel.app)
 - 🌥️ [Seasons app](https://seasons-app-sigma.vercel.app)
-
+- 🔀 [URL Decoder/Encoder](https://url-decoder-encoder.vercel.app/)
 <!---
 kanagu555/kanagu555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
