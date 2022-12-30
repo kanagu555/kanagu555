@@ -28,7 +28,7 @@
 
 <h1>📒 Licenses & certifications</h1>
 
-- ![image](https://user-images.githubusercontent.com/81580398/210087194-d68aa8c1-280a-4708-9f3e-3a64b9fba69c.png)
+- ![image](https://user-images.githubusercontent.com/81580398/210087194-d68aa8c1-280a-4708-9f3e-3a64b9fba69c.png = 10x10)
 
 
 
