@@ -28,9 +28,7 @@
 
 <h1>📒 Licenses & certifications</h1>
 
-- ![image](https://user-images.githubusercontent.com/81580398/210087194-d68aa8c1-280a-4708-9f3e-3a64b9fba69c.png) | width=100
-
-
+<img src="https://user-images.githubusercontent.com/81580398/210087194-d68aa8c1-280a-4708-9f3e-3a64b9fba69c.png" width="50" height="30" />
 
 <!---
 kanagu555/kanagu555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
