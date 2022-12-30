@@ -26,6 +26,8 @@
 - 🎥 [Youtube clone](https://youtube-video-api.vercel.app)
 - 🌥️ [Seasons app](https://seasons-app-sigma.vercel.app)
 - 🔀 [URL Decoder/Encoder](https://url-decoder-encoder.vercel.app/)
+- 🔠 [Text Converter](http://text-converter-seven.vercel.app/)
+- 🕸️ [URL Decoder-Encoder](http://url-decoder-encoder.vercel.app/)
 
 <h1>📒 Licenses & Certifications</h1>
 
