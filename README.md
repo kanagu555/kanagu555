@@ -28,7 +28,8 @@
 
 <h1>📒 Licenses & certifications</h1>
 
-- https://w7.pngwing.com/pngs/13/317/png-transparent-udemy-round-logo-tech-companies.png
+- ![image](https://user-images.githubusercontent.com/81580398/210087099-a96cd9f1-5c39-4faf-b75a-d9caa89deea4.png)
+
 
 <!---
 kanagu555/kanagu555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
