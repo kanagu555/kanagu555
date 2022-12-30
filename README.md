@@ -26,9 +26,9 @@
 - 🌥️ [Seasons app](https://seasons-app-sigma.vercel.app)
 - 🔀 [URL Decoder/Encoder](https://url-decoder-encoder.vercel.app/)
 
-<h1>📒 Licenses & certifications</h1>
+<h1>📒 Licenses & Certifications</h1>
 
-<img src="https://user-images.githubusercontent.com/81580398/210087194-d68aa8c1-280a-4708-9f3e-3a64b9fba69c.png" width="50" height="30" />
+Loading...
 
 <!---
 kanagu555/kanagu555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
